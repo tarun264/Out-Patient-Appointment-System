@@ -17,7 +17,7 @@ This project implements an API for managing appointments in an out-patient appoi
 - **POST /appointments/book**: Books an appointment with a specific doctor.
 
 ## Deployment
-- http://localhost:8080/swagger-ui/index.html#: Provides an interactive documentation of the API endpoints.
+- http://localhost:8080/swagger-ui/index.html#: Provides an interactive documentation of the API endpoints.(This Link will work on running code)
 
 ## Screencast Explanation
 - https://www.dropbox.com/scl/fi/quei9rvdmipljg5t685rz/Out-Patient-Appointment-Project.mp4?rlkey=vptsr3pd5duxjv8nf2cuiforv&st=smeb2ijd&dl=0: Provides a video demonstration and explanation of the code and API functionality.
