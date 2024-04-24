@@ -20,5 +20,5 @@ This project implements an API for managing appointments in an out-patient appoi
 - [http://localhost:8080/swagger-ui/index.html#](#swagger-ui): Provides an interactive documentation of the API endpoints.
 
 ## Screencast Explanation
-- [https://www.dropbox.com/scl/fi/quei9rvdmipljg5t685rz/Out-Patient-Appointment-Project.mp4?rlkey=vptsr3pd5duxjv8nf2cuiforv&st=smeb2ijd&dl=0](#screencast): Provides a video demonstration and explanation of the code and API functionality.
+- [https://www.dropbox.com/scl/fi/quei9rvdmipljg5t685rz/Out-Patient-Appointment-Project.mp4?rlkey=vptsr3pd5duxjv8nf2cuiforv&st=smeb2ijd&dl=0]: Provides a video demonstration and explanation of the code and API functionality.
 
